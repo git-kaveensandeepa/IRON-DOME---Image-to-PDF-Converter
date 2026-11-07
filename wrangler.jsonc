@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "irondome",
+  "name": "iron-dome---image-to-pdf-converter",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-11-04",
 
@@ -14,7 +14,7 @@
   "services": [
     {
       "binding": "WORKER_SELF_REFERENCE",
-      "service": "irondome"
+      "service": "iron-dome---image-to-pdf-converter"
     }
   ],
   "build": {
