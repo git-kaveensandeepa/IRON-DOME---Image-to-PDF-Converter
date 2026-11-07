@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  * {
+    border-color: var(--color-gray-200, currentColor);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light dark;
+  }
+}

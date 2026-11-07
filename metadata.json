@@ -1,0 +1,8 @@
+{
+  "name": "Remix IRON DOME - Image to PDF Converter",
+  "description": "Secure, high-speed in-browser Image to PDF converter. Convert JPG, PNG, and WEBP files into professional PDF documents with zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,13 @@
+/* TEAM */
+Developer: Kaveen Sandeepa
+Email: mail.kaveensandeepa@gmail.com
+Role: Creator & Lead Engineer
+Location: Sri Lanka
+
+/* THANKS */
+Users: All users converting images securely
+
+/* SITE */
+Standards: HTML5, CSS3, ESNext, Next.js, WebAssembly
+Software: Handcrafted, No AI Watermarks, 100% Client-Side Privacy
+Site: https://irondome.badumutt2.workers.dev

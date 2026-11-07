@@ -1,0 +1,6 @@
+# IRON DOME - Secure Image to PDF Converter
+> Fast, client-side, in-browser Image to PDF conversion utility created by Kaveen Sandeepa.
+
+- URL: https://irondome.badumutt2.workers.dev
+- Authorship: Human-developed client-side application
+- Privacy: 100% in-browser processing, zero server uploads, offline capable
